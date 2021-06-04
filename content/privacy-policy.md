@@ -14,7 +14,7 @@ Privacy Policy -
 [Risk-Mitigation.Group](https://risk-mitigation.group/), LLC
 
 **YOUR PRIVACY RIGHTS**
-
+{{< indent-open >}}
 Your privacy is important to Risk Mitigation Group, LLC (RMG), and RMG
 is committed to ensuring that your privacy is protected. The “Site” (as
 defined under Section 1, below) is owned and operated by RMG. This
@@ -24,16 +24,18 @@ provide RMG, the type of information that RMG collects from you when you
 register and use the Site, and how that information is used. The
 information that RMG gathers from you will only be used in the manner
 set forth in this Policy.
-
+{{< indent-close >}}
 **1. “Site” Defined.** Each of the web sites listed under this Section
+{{< indent-open >}}
 1, below (collectively referred to herein as the “Site”) are affiliated
 with, owned by, and operated by RMG. In this Policy where reference is
 made to RMG, that term also means, includes, and refers to each and
 every of the following web sites:
 
 {{< website-list >}}
-
+{{< indent-close >}}
 **2. Changes to the Policy.** RMG may periodically change this Policy
+{{< indent-open >}}
 through updates to the Policy web page. If RMG makes changes to its
 Policy, a notice will be posted on the home page for each Site for a
 period of sixty (60) days. It is your responsibility to periodically
@@ -42,13 +44,17 @@ changes. In the event you do not agree with the changes to the Policy,
 you must immediately stop using the Site. Should you continue use of the
 Site after a change is posted, your continued use confirms your
 acceptance of the change or changes to this Policy.
-
-**3. Information RMG Gathers.** RMG gathers information that you
+{{< indent-close >}}
+**3. Information RMG Gathers.**
+{{< indent-open >}}
+RMG gathers information that you
 voluntarily provide. Some of that information is “personal information”
 and some of that information pertains to your usage of the Site (“usage
 information”).
-
-**a. Personal Information.** Under California law, the term “personal
+{{< indent-close >}}
+**a. Personal Information.**
+{{< indent-open >}}
+Under California law, the term “personal
 information” does not include publicly available information that is
 lawfully made available to the general public from Federal, State, or
 local government records.
@@ -86,7 +92,7 @@ of publication, made available to the general public by you and it is,
 therefore, not protected under this Policy.
 
 The personal information that RMG gathers may include:
-
+{{< indent-open >}}
 ​(1) Your name and job title;
 
 ​(2) Your telephone;
@@ -100,19 +106,24 @@ The personal information that RMG gathers may include:
 ​(6) Other information of a similar nature that is relevant to the
 services that RMG offers, such as advertisements, surveys and special
 offers.
-
-**b. Usage Information.** For the purposes of this Policy the term
+{{< indent-close >}}
+{{< indent-close >}}
+**b. Usage Information.**
+{{< indent-open >}}
+For the purposes of this Policy the term
 “usage information” means information that is gathered by tracking how
 you use the Site, which includes, but is not limited to, the frequency
 with which a link is used and the frequency and duration that a
 particular page or pages are viewed, and the number of “visits”, “hits”,
 or “viewings” a particular page, product, or service received by users
 of the Site (collectively, “Traffic Patterns”).
-
-**c. Limitations on the Collection of Personal Information.** You may
+{{< indent-close >}}
+**c. Limitations on the Collection of Personal Information.**
+{{< indent-open >}}
+You may
 elect to limit or prevent the collection of personal information in the
 following ways:
-
+{{< indent-open >}}
 ​(1) Whenever you are asked to provide information to enter, register
 for, or receive information from a Site, you may decline to do so.
 
@@ -134,19 +145,25 @@ consent as follows:\
  Site Administrator\
  Risk-Mitigation.Group\
  admin@Risk-Mitigation.Group
-
-**d. Personal Information Collected.** Personal information is collected
+{{< indent-close >}}
+{{< indent-close >}}
+**d. Personal Information Collected.**
+{{< indent-open >}}Personal information is collected
 by RMG when you create an account. This includes: information used when
 an account is created, search queries made on Insurance.Report (to track
 billing) and fire department edits made by account holders on
 FireDepartment.net. Personal information collected can be viewed by
 logging into your account.
-
-**e. Viewing Personal Information.** Personal information collected can
+{{< indent-close >}}
+**e. Viewing Personal Information.**
+{{< indent-open >}}
+Personal information collected can
 be viewed by logging into your account on FireDepartment.net or
 Insurance.Report.
-
-**4. Use of Information Gathered by RMG.** RMG gathers personal
+{{< indent-close >}}
+**4. Use of Information Gathered by RMG.**
+{{< indent-open >}}
+RMG gathers personal
 information and usage information to provide better services through
 interactive elements, posting opportunities, and content tailored to
 your interests. RMG may use your personal information internally to
@@ -179,14 +196,18 @@ not be allowed access to the Site; or
 require you to provide any personal information; when prompted for
 personal information, you may simply cancel the operation and you will
 be directed away from that Site.
-
-**5. Non-Disclosures.** The disclosures of information that are not
+{{< indent-close >}}
+**5. Non-Disclosures.**
+The disclosures of information that are not
+{{< indent-open >}}
 deemed to be disclosures of personal information by a business for a
 third party’s direct marketing purposes are as provided under California
 Civil Code Section 1798.83(d), which is incorporated herein by this
 reference.
-
-**6. Security, Information Sharing, and Notice.** RMG will not share the
+{{< indent-close >}}
+**6. Security, Information Sharing, and Notice.**
+RMG will not share the
+{{< indent-open >}}
 personal information of any particular user of the Site. We will not
 sell, distribute or lease your personal information to third parties
 unless we have your permission or are required by law to do so. You will
@@ -205,8 +226,10 @@ account. You agree to hold us harmless for the release of any
 information related to your account in connection with a civil subpoena
 including, but not limited to, any claims that you did not receive
 notice of the civil subpoena.
-
-**7. Website Links.** RMG’s Site contains “links” to other websites.
+{{< indent-close >}}
+**7. Website Links.**
+{{< indent-open >}}
+RMG’s Site contains “links” to other websites.
 When you click on a link, you are directed to a different web site. RMG
 is not responsible for the privacy policies of such other web sites. RMG
 encourages its users to read the privacy policies of each web site that
@@ -216,8 +239,10 @@ representations or warranties concerning, the privacy policies of any
 web site other than this Site and RMG shall not be responsible for any
 use of your personal information by any other website for which a link
 is provided on the Site.
-
-**8. Cookie Tracking.** A “cookie” is a small file which asks permission
+{{< indent-close >}}
+**8. Cookie Tracking.**
+{{< indent-open >}}
+A “cookie” is a small file which asks permission
 to be placed on your computer’s hard drive. If you agree to allow a
 cookie to be installed on your computer, a text file is added. Once
 installed, the cookie helps analyze your traffic patterns. The cookie
@@ -234,8 +259,10 @@ setting your browser preferences to refuse cookies. However, cookies are
 required in order to login and create an account. Without an account,
 users will not be able to perform tasks like searching for nearest fire
 stations, nearest fire hydrants or manage fire department’s profile.
-
-**9. Consent by Use.** By using the Site, you consent to the collection
+{{< indent-close >}}
+**9. Consent by Use.**
+{{< indent-open >}}
+By using the Site, you consent to the collection
 and use of this information by RMG for the purposes and in the manner
 provided in this Policy.
 
@@ -248,3 +275,4 @@ provided in this Policy.
 {{< return-to-list >}}
 
 • I DO NOT agree. ([Exit this website now](http://google.com/))
+{{< indent-close >}}
