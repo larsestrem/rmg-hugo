@@ -1,0 +1,43 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel=icon type=image/x-icon href=images/favicon.ico>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Insurance.Report</title>
+  <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ end }}"/>
+  <meta name="keywords" content="{{ if .Params.keywords }}{{ .Params.keywords }}{{ end }}"/>
+  <link rel="canonical" href="{{ if .Params.canonical }}{{ .Params.canonical }}{{ end }}"/>
+  {{ partial "css" . }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135408707-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135408707-1');
+</script>
+
+</head>
+<body>
+     {{ partial "header" .}}
+     <div class="content">
+       <div class="row">
+         <div>
+           <h1>{{.Title}}</h1>
+          {{ if .Params.breadcrumb }}{{ .Params.breadcrumb }}{{ end }}
+         </div>
+
+       </div>
+        <hr/>
+        <div class="row">
+          <div>
+            <div>{{.Content}}</div>
+          </div>
+
+      </div> <!-- End content -->
+     {{ partial "footer" . }}
+   </div>
+</body>
+</html>

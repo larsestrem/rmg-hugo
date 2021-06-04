@@ -1,0 +1,52 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel=icon type=image/x-icon href=images/favicon.ico>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Insurance.Report</title>
+  <meta name="description" content="{{ if .Params.description }}{{ .Params.description }}{{ end }}"/>
+  <meta name="keywords" content="{{ if .Params.keywords }}{{ .Params.keywords }}{{ end }}"/>
+  <link rel="canonical" href="{{ if .Params.canonical }}{{ .Params.canonical }}{{ end }}"/>
+    {{ partial "css" . }}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164512760-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-164512760-1');
+  </script>
+
+    <style>
+      hr {border-top: 2px solid red;}
+    </style>
+
+</head>
+<body>
+     {{ partial "header" .}}
+     <div class="content"> <!-- (1050px wide) -->
+       <div class="row">
+         <div class="column-left"> <!-- Start left column (728px wide) -->
+           <h1>{{.Title}}</h1>
+           <div style="font-size:small;"><b style="color:silver;">Last Updated:</b> {{ dateFormat "Jan 2, 2006" .Date }}</div>
+         </div> <!-- End left column -->
+
+       </div><!-- End row -->
+       <hr/>
+       <div class="row">
+         <div > <!-- Start left column (728px wide) -->
+
+         {{.Content}}
+         <!-- <img style="padding-top:10px" src="https://via.placeholder.com/728x90?text=728x90+Leaderboard"> -->
+
+
+         </div> <!-- End left column -->
+
+       </div>
+
+   </div> <!-- End content -->
+     {{ partial "footer" . }}
+</body>
+</html>

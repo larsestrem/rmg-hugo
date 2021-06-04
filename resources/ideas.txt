@@ -1,0 +1,49 @@
+
+News, Jobs, Directory, Revenues, Services, Privacy form, Policy details, tips, claims advice,
+
+Email newsletter sign up
+
+Add robots.text
+Add social icons listed in FDN tasks
+
+
+Jobs:
+  Schema.org Jobs
+  Category by state
+  Tag by type, company,
+
+Cards:
+  Add location (City, ST)
+  Remove topic on Cards?
+  Create my own news page for news written by me.
+  Make view more stories box?
+  Make view more also have an ad built into boxes
+  How to dynamically populate news cards from news pages created?
+  How much text can I copy from news provider before sending visitor to them?
+
+  Mobile:
+    Make summary shorter (mobile hide certain parts)
+
+Legal - Doug Jacobs Questions:
+  Disclaimer reviewed - Is it copyrighted text to copy?
+  Do you know any attorneys who'd want to write an article to help insurance victims? - Drive referrals online & SEO
+  How much text can I copy from news provider before sending visitor to them?
+
+Create folder structure based on navigation and home content ideas
+
+Make News cards automated and list by year/month
+
+Format the automated list of pages to be responsive boxes
+
+Rate your insurance company experience - Share with others
+
+Similar websites:
+  https://www.insurancejournal.com/
+
+Insurance company Logos on jobs and stories about companies
+
+Insurance company directory with Jobs, consumer/employee reviews, products offered, news, etc.
+
+Home:
+Promoting transparency on actionable items to lower insurance premiums:
+  When insurance companies share risk mitigation opportunities with their customers, there's an opportunity to make improvements/adjustments to their home, driving habits, or other actions to be safer (and reduce risk). Lower risk typically translates into lower insurance rates.
