@@ -3,13 +3,11 @@ title: "Risk Mitigation Group, LLC"
 breadcrumb: "Add Breadcrumb"
 date: 2021-06-04
 draft: false
-description: "this is the home page description"
-keywords: "Risk Mitigation Group collects, analyzes and shares risk information to help build safer communities."
+description: "Risk Mitigation Group collects, analyzes and shares risk information to help build safer communities."
+keywords: "Risk Mitigation Group"
 canonical: "https://risk-mitigation.group/"
 summary: "Risk Mitigation Group collects, analyzes and shares risk information to help build safer communities."
 ---
-
-
 Risk-Mitigation.Group is the parent company of websites listed below.
 
 [FireDepartment.net](https://www.firedepartment.net/)
