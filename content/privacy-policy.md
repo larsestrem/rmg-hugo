@@ -144,7 +144,7 @@ information for marketing purposes, you may contact RMG to cancel your
 consent as follows:\
  Site Administrator\
  Risk-Mitigation.Group\
- admin@Risk-Mitigation.Group
+ admin @ Risk-Mitigation.Group
 {{< indent-close >}}
 {{< indent-close >}}
 **d. Personal Information Collected.**
