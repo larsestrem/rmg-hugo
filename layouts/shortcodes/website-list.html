@@ -1,10 +1,6 @@
 <div style="padding-left:30px;">
 
-<p><a href="https://risk-mitigation.group/">Risk-Mitigation.Group</a></p>
-<p><a href="https://FireDepartment.net">FireDepartment.net</a></p>
-<p><a href="http://FireEngineAcademy.com">FireEngineAcademy.com</a></p>
-<p><a href="http://FrictionLossCalculator.com">FrictionLossCalculator.com</a></p>
-<p><a href="https://Insurance.Report">Insurance.Report</a></p>
-<p><a href="https://FireInsurance.Report">FireInsurance.Report</a></p>
-<p><a href="https://www.nvfirechf.org/">nvfirechf.org</a></p>
-</div>
+{{ range .Site.Data.websites }}
+  <a href="{{.url}}">{{.name}}</a> <br>
+{{end}}
+<br>

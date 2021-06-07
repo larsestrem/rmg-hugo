@@ -1,32 +1,44 @@
 {
    "fdn":{
       "name":"FireDepartment.net",
-      "URL":"https://www.firedepartment.net/",
-      "return-to":"Return to ",
+      "url":"https://www.firedepartment.net/",
+      "returnto":"Return to ",
       "Descrition":"Helping fire departments get online, recruit volunteers & share information with the communities they serve. Fire administrators and firefighters can scroll to the bottom of their fire department profile and request to manage their fire department’s profile. Community members and insurance agents can also suggest additions and updates that will be reviewed before being added to the database."
    },
    "fir":{
       "name":"FireInsurance.Report",
-      "URL":"https://fireinsurance.report/",
-      "return-to":"Return to ",
+      "url":"https://fireinsurance.report/",
+      "returnto":"Return to ",
       "Descrition":"Services designed to help insurance agents find the nearest fire station and nearest fire hydrant for insurance inspections and underwriting. When either a hydrant or fire station can’t be found, insurance professions often call the fire station requesting more information. FireInsurance.Report services saves a significant amount of time for the insurance industry and firefighters."
    },
    "fea":{
       "name":"FirEengineAcademy.com",
-      "URL":"http://fireengineacademy.com/",
-      "return-to":"Return to ",
+      "url":"http://fireengineacademy.com/",
+      "returnto":"Return to ",
       "Descrition":"Resource for new fire engine operators to learn about operating a fire engine. Topics include pump discharge pressure and fire engine pump and plumbing."
    },
    "flc":{
       "name":"FrictionLossCalculator.com",
-      "URL":"https://www.frictionlosscalculator.com/",
-      "return-to":"Return to ",
+      "url":"https://www.frictionlosscalculator.com/",
+      "returnto":"Return to ",
       "Descrition":"Resource for new fire engine operators to learn about fluid dynamics. Friction loss is one of the more difficult topics for new fire engine operators. We simplified the process and provided multiple ways to solve friction loss calculations."
    },
    "nfca":{
-      "name":"NVfirechf.org",
-      "URL":"https://www.nvfirechf.org/",
-      "return-to":"Return to ",
+      "name":"nvfirechf.org",
+      "url":"https://www.nvfirechf.org/",
+      "returnto":"Return to ",
       "Descrition":"Risk Mitigtaion Group provides fire department information to the official Nevada Fire Chiefs Association website. Fire department contact information and images are subject to firedepartment.net’s terms of service and privacy policy."
+   },
+   "ir":{
+      "name":"Insurance.Report",
+      "url":"https://insurance.report/",
+      "returnto":"Return to ",
+      "Descrition":"Coming Soon: Consumer education about insurance related topics"
+   },
+   "vr":{
+      "name":"Visitor.Report",
+      "url":"https://visitor.report/",
+      "returnto":"Return to ",
+      "Descrition":"Coming Soon: Travel guide"
    }
 }
