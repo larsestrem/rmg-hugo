@@ -1,6 +1,5 @@
 ---
 title: "Risk Mitigation Group, LLC"
-breadcrumb: "Add Breadcrumb"
 date: 2021-06-04
 draft: false
 description: "Risk Mitigation Group collects, analyzes and shares risk information to help build safer communities."

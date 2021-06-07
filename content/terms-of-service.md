@@ -1,6 +1,6 @@
 ---
 canonical: "/terms-of-service/"
-title: " Risk-Mitigation.Group, LLC - Terms of Service"
+title: "Risk-Mitigation.Group, LLC - Terms of Service"
 breadcrumb: ""
 date: 2021-06-04
 draft: true
