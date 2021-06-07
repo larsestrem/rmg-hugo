@@ -1,6 +1,6 @@
 ---
 canonical: "/contact/"
-title: "Contact Risk-Mitigation.Group, LLC "
+title: "Contact us"
 breadcrumb: ""
 date: 2021-06-04
 draft: true
