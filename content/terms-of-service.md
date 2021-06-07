@@ -1,14 +1,9 @@
 ---
 canonical: "/terms-of-service/"
 title: "Terms of Service"
-breadcrumb: ""
 date: 2021-06-04
 draft: true
-tags:
-categories:
 description: ""
-keywords: ""
-summary: ""
 ---
 
 **NOTICE: READ CAREFULLY BEFORE PROCEEDING TO THE WEBSITE**

@@ -1,14 +1,9 @@
 ---
 canonical: "/privacy-policy/"
 title: "Privacy Policy"
-breadcrumb: ""
 date: 2021-06-04
 draft: true
-tags:
-categories:
 description: ""
-keywords: ""
-summary: ""
 ---
 Privacy Policy -
 [Risk-Mitigation.Group](https://risk-mitigation.group/), LLC
