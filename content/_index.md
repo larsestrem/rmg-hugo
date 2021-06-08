@@ -21,7 +21,7 @@ Helping fire departments get online, recruit volunteers & share information with
 
 [FireEngineAcademy.com](http://fireengineacademy.com/)
 {{< indent-open >}}
-Resource for new fire engine operators to learn about operating a fire engine. Topics include pump discharge pressure and fire engine pump and plumbing. We are looking for a fire academy interested in publishing content to FireEngineAcademy.com and FrictionLossCalculator.com in exchange for marketing to a combined 17,000 visitors a month.
+Resource for new fire engine operators to learn about operating a fire engine. Topics include pump discharge pressure and fire engine pump and plumbing.
 {{< indent-close >}}
 
 [FrictionLossCalculator.com](https://www.frictionlosscalculator.com/)
