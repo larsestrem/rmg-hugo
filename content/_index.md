@@ -34,14 +34,12 @@ Resource for new fire engine operators to learn about fluid dynamics. Friction l
 We provide fire department information to the official Nevada Fire Chiefs Association website. Fire department contact information is subject to firedepartment.net's terms of service and privacy policy.
 {{< indent-close >}}
 
-Coming Soon:
-
 [Insurance.Report](https://Insurance.Report)
 {{< indent-open >}}
-Consumer education about insurance related topics
+**Coming soon:** Consumer education about insurance related topics
 {{< indent-close >}}
 
 [Visitor.Report](https://Insurance.Report)
 {{< indent-open >}}
-Travel guide
+**Coming soon:** Travel guide
 {{< indent-close >}}
