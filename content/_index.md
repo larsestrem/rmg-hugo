@@ -18,7 +18,6 @@ Helping fire departments get online, recruit volunteers & share information with
  Services designed to help insurance agents find the nearest fire station and nearest fire hydrant for insurance inspections and underwriting. When either a hydrant or fire station can't be found, insurance professions often call the fire station requesting more information. FireInsurance.Report services saves a significant amount of time for the insurance industry and firefighters.
 {{< indent-close >}}
 
-
 [FireEngineAcademy.com](http://fireengineacademy.com/)
 {{< indent-open >}}
 Resource for new fire engine operators to learn about operating a fire engine. Topics include pump discharge pressure and fire engine pump and plumbing.
@@ -32,14 +31,4 @@ Resource for new fire engine operators to learn about fluid dynamics. Friction l
 [NVfirechf.org](https://www.nvfirechf.org/)
 {{< indent-open >}}
 We provide fire department information to the official Nevada Fire Chiefs Association website. Fire department contact information is subject to firedepartment.net's terms of service and privacy policy.
-{{< indent-close >}}
-
-[Insurance.Report](https://Insurance.Report)
-{{< indent-open >}}
-**Coming soon:** Consumer education about insurance related topics
-{{< indent-close >}}
-
-[Visitor.Report](https://Insurance.Report)
-{{< indent-open >}}
-**Coming soon:** Travel guide
 {{< indent-close >}}
